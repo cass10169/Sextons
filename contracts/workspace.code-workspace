@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "..\\..\\Spookyswap"
+		},
+		{
+			"path": ".."
+		}
+	],
+	"settings": {
+		"slither.solcPath": "",
+		"slither.hiddenDetectors": []
+	}
+}
